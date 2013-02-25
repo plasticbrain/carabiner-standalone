@@ -6,7 +6,7 @@ Carabiner Standalone
 Basic Usage
 -----------
 
-1. Clone this repository `$ git clone https://github.com/plasticbrain/carabiner-standalone`
+1. Clone this repository `$ git clone https://github.com/plasticbrain/carabiner-standalone carabiner`
 2. Open config.php and set `script_dir`, `style_dir`, `cache_dir`, and `base_uri` in 
 3. Make sure your cache directory (defined in config.php) exists and is writable (chmod to 775 or 777)
 4. Instantiate Carabiner and load your assets
